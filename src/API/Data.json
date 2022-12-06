@@ -1,0 +1,212 @@
+{
+    "pokemones": [
+        {
+            "id": "001",
+            "name": "Bulbasaur",
+            "image": "/img/bulbasaur.png",
+            "element": {
+                "type1": "Grass",
+                "type2": "Poison"
+            },
+            "weight": "6,9 kg",
+            "height": "0,7 m",
+            "moves": "Chlorophyll Overgrow",
+            "bgColor": "#019cad",
+            "bgColor2": "#a43e9e",
+            "description": "There is a plant seed on its back right from the day this Pokémon is born.",
+            "baseStats": {
+                "HP": "045",
+                "ATK": "049",
+                "DEF": "049",
+                "SATK": "065",
+                "SDEF": "065",
+                "SPD": "045"
+            }
+        },
+
+        {
+            "id": "004",
+            "name": "Charmander",
+            "image": "/img/charmander.png",
+            "element": {
+                "type1": "Fire"
+            },
+            "weight": "8,5 kg",
+            "height": "0,6 m",
+            "moves": "Mega-Punch Fire-Punch",
+            "bgColor": "#f57d31",
+            "description": "",
+            "baseStats": {
+                "HP": "039",
+                "ATK": "052",
+                "DEF": "043",
+                "SATK": "060",
+                "SDEF": "050",
+                "SPD": "065"
+            }
+        },
+
+        {
+            "id": "007",
+            "name": "Squirtle",
+            "image": "/img/squirtle.png",
+            "element": {
+                "type1": "Water"
+            },
+            "weight": "9,0 kg",
+            "height": "0,5 m",
+            "moves": "Torrent Rain-Dish",
+            "bgColor": "#6493eb",
+            "description": "",
+            "baseStats": {
+                "HP": "044",
+                "ATK": "048",
+                "DEF": "065",
+                "SATK": "050",
+                "SDEF": "064",
+                "SPD": "043"
+            }
+        },
+
+        {
+            "id": "012",
+            "name": "Butterfree",
+            "image": "/img/butterfree.png",
+            "element": {
+                "type1": "Bug",
+                "type2": "Flying"
+            },
+            "weight": "32,0 kg",
+            "height": "1,1 m",
+            "moves": "Compound-Eyes Tinted-Lens",
+            "color": "var(--bug)",
+            "bgColor": "#a7b723",
+            "bgColor2": "#a891ec",
+            "description": "",
+            "baseStats": {
+                "HP": "060",
+                "ATK": "045",
+                "DEF": "050",
+                "SATK": "090",
+                "SDEF": "080",
+                "SPD": "070"
+            }
+        },
+
+        {
+            "id": "025",
+            "name": "Pikachu",
+            "image": "/img/pikachu.png",
+            "element": {
+                "type1": "Electric"
+            },
+            "weight": "6,0 kg",
+            "height": "0,4 m",
+            "moves": "Mega-Punch Pay-Day",
+            "bgColor": "#f9cf30",
+            "description": "",
+            "baseStats": {
+                "HP": "035",
+                "ATK": "055",
+                "DEF": "040",
+                "SATK": "050",
+                "SDEF": "050",
+                "SPD": "090"
+            }
+        },
+
+        {
+            "id": "092",
+            "name": "Gastly",
+            "image": "/img/gastly.png",
+            "element": {
+                "type1": "Ghost",
+                "type2": "Type"
+            },
+            "weight": "0,1 kg",
+            "height": "1,3 m",
+            "moves": "Levitate",
+            "bgColor": "#70559b",
+            "bgColor2": "#666666",
+            "description": "",
+            "baseStats": {
+                "HP": "030",
+                "ATK": "035",
+                "DEF": "030",
+                "SATK": "100",
+                "SDEF": "035",
+                "SPD": "080"
+            }
+        },
+
+        {
+            "id": "132",
+            "name": "Ditto",
+            "image": "/img/ditto.png",
+            "element": {
+                "type1": "Normal"
+            },
+            "weight": "4,0 kg kg",
+            "height": "0,3 m",
+            "moves": "Limber Imposter",
+            "bgColor": "#aaa67f",
+            "description": "",
+            "baseStats": {
+                "HP": "048",
+                "ATK": "048",
+                "DEF": "048",
+                "SATK": "048",
+                "SDEF": "048",
+                "SPD": "048"
+            }
+        },
+
+        {
+            "id": "152",
+            "name": "Mew",
+            "image": "/img/mew.png",
+            "element": {
+                "type1": "Psychic"
+            },
+            "weight": "4,0 kg",
+            "height": "0,4 m",
+            "moves": "Synchronize ",
+            "color": "var(--psychic)",
+            "bgColor": "#fb5584",
+            "description": "",
+            "baseStats": {
+                "HP": "100",
+                "ATK": "100",
+                "DEF": "100",
+                "SATK": "100",
+                "SDEF": "100",
+                "SPD": "100"
+            }
+        },
+
+        {
+            "id": "304",
+            "name": "Aron",
+            "image": "/img/aron.png",
+            "element": {
+                "type1": "Steel",
+                "type2": "Rock"
+            },
+            "weight": "60 kg",
+            "height": "0,4 m",
+            "moves": "Sturdy Rock-Head",
+            "color": "var(--steel)",
+            "bgColor": "#b7b9d0",
+            "bgColor2": "#b69e31",
+            "description": "",
+            "baseStats": {
+                "HP": "050",
+                "ATK": "070",
+                "DEF": "100",
+                "SATK": "040",
+                "SDEF": "040",
+                "SPD": "030"
+            }
+        }
+    ]
+}
